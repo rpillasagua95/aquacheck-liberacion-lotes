@@ -1,0 +1,8 @@
+.env
+config.json
+mensajes_enviados.json
+imagenes_guardadas.json
+envios.log
+__pycache__/
+*.xlsx
+*.xls

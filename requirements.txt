@@ -1,0 +1,9 @@
+ttkbootstrap
+tkinterdnd2
+psutil
+pandas
+openpyxl
+python-dotenv
+whatsapp-api-client-python
+pillow
+excel2img
